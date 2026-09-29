@@ -37,6 +37,11 @@ git-portable/
 *.xls
 *.log
 *.bak
+desktop.ini
+\!*.doc
+\!*.txt
+\!*.csv
+*qhlogs*
 Mobile Devices/
 Phone Link/
 vivo Office Kit/
