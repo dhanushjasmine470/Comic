@@ -1,0 +1,42 @@
+# Secrets
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Generated output
+storage/comics/*
+storage/test-images/*
+!storage/.gitkeep
+
+# Editors / OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model caches
+.cache/
+huggingface/
+
+# Local tooling and downloaded junk not part of the app source
+git-portable/
+*.zip
+*.exe
+*.AppxBundle
+*.crdownload
+*.make
+*.doc
+*.csv
+*.xls
+*.log
+*.bak
+Mobile Devices/
+Phone Link/
+vivo Office Kit/
